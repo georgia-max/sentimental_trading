@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+alpaca-py
+python-dateutil
+pytz
+python-dotenv
+requests
+dotenv
+vaderSentiment
+scipy
+torch
+transformers
